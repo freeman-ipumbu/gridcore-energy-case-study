@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">One site, four systems</title>
+  <desc id="desc">A conceptual diagram showing CCTV, solar, electrical and irrigation routes meeting at the site.</desc>
+  <defs>
+    <linearGradient id="field" x2="1" y2="1"><stop stop-color="#101c24"/><stop offset="1" stop-color="#1b333c"/></linearGradient>
+    <linearGradient id="wire" x2="1"><stop stop-color="#e6945d"/><stop offset="1" stop-color="#718f99"/></linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#c6d7d2" stroke-opacity=".065"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect width="1200" height="620" fill="url(#field)"/>
+  <rect width="1200" height="620" fill="url(#grid)"/>
+  <g fill="none" stroke="#718f99" stroke-opacity=".11" stroke-width="1.5">
+    <path d="M-50 81Q226 139 362 42T746 49T1240 22"/>
+    <path d="M-50 112Q226 170 362 73T746 80T1240 53"/>
+    <path d="M-50 143Q226 201 362 104T746 111T1240 84"/>
+    <path d="M-50 490Q244 419 354 533T755 508T1240 560"/>
+    <path d="M-50 522Q244 451 354 565T755 540T1240 592"/>
+  </g>
+  <text x="64" y="55" fill="#e6945d" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="4">GRIDCORE ENERGY / EXPERIENCE ARCHITECTURE</text>
+  <text x="1136" y="55" fill="#a7babc" text-anchor="end" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">NAMIBIA · 2026</text>
+  <g fill="none" stroke="url(#wire)" stroke-width="2">
+    <path d="M380 208H530V274"/><path d="M820 208H670V274"/>
+    <path d="M380 444H530V346"/><path d="M820 444H670V346"/>
+  </g>
+  <g fill="#e6945d"><circle cx="380" cy="208" r="4"/><circle cx="820" cy="208" r="4"/><circle cx="380" cy="444" r="4"/><circle cx="820" cy="444" r="4"/></g>
+  <circle cx="600" cy="310" r="93" fill="#e6945d" opacity=".12" filter="url(#glow)"/>
+  <rect x="540" y="250" width="120" height="120" rx="15" fill="#e6945d"/>
+  <g fill="none" stroke="#101c24" stroke-width="13" stroke-linecap="square"><path d="M535 282H562L600 320L638 282H665"/><path d="M535 350H562L600 312L638 350H665"/></g>
+  <path d="M600 291L629 320L600 349L571 320Z" fill="#f1efe8"/><path d="M600 309L611 320L600 331L589 320Z" fill="#101c24"/>
+  <text x="600" y="411" text-anchor="middle" fill="#f1efe8" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4">THE SITE</text>
+  <g font-family="Arial,sans-serif">
+    <text x="120" y="184" fill="#e6945d" font-size="13" font-weight="700" letter-spacing="3">01 / PROTECT</text><text x="120" y="222" fill="#f1efe8" font-size="26" font-weight="700">CCTV &amp; security</text><text x="120" y="247" fill="#a7babc" font-size="14">What needs to be seen?</text>
+    <text x="860" y="184" fill="#e6945d" font-size="13" font-weight="700" letter-spacing="3">02 / GENERATE</text><text x="860" y="222" fill="#f1efe8" font-size="26" font-weight="700">Solar &amp; backup</text><text x="860" y="247" fill="#a7babc" font-size="14">What needs to stay on?</text>
+    <text x="120" y="420" fill="#e6945d" font-size="13" font-weight="700" letter-spacing="3">03 / CONNECT</text><text x="120" y="458" fill="#f1efe8" font-size="26" font-weight="700">Electrical works</text><text x="120" y="483" fill="#a7babc" font-size="14">What must work together?</text>
+    <text x="860" y="420" fill="#e6945d" font-size="13" font-weight="700" letter-spacing="3">04 / MOVE</text><text x="860" y="458" fill="#f1efe8" font-size="26" font-weight="700">Irrigation &amp; pumps</text><text x="860" y="483" fill="#a7babc" font-size="14">Where must water go?</text>
+  </g>
+  <line x1="64" x2="1136" y1="550" y2="550" stroke="#a7babc" stroke-opacity=".25"/>
+  <text x="64" y="580" fill="#a7babc" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">CONCEPTUAL EXPERIENCE MAP / NOT AN ENGINEERING DESIGN</text>
+  <text x="1136" y="580" text-anchor="end" fill="#e6945d" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">BUILT FOR HERE.</text>
+</svg>

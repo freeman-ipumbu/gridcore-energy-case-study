@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 166 63" role="img" aria-labelledby="title desc">
+  <title id="title">GridCore Energy</title>
+  <desc id="desc">A copper terrain and circuit tile beside a bespoke two-line GridCore wordmark.</desc>
+  <defs>
+    <path id="glyph-g" d="M5 0H21V4H7L4 7V13L7 16H16V13H11V9H21V20H5L0 15V5Z"/>
+    <path id="glyph-r" fill-rule="evenodd" d="M0 0H16L21 5V10L17 14H13L21 20H14L7 14H5V20H0Z M5 4V10H14L16 8V6L14 4Z"/>
+    <path id="glyph-i" d="M0 0H21V4H13V16H21V20H0V16H8V4H0Z"/>
+    <path id="glyph-d" fill-rule="evenodd" d="M0 0H15L21 6V14L15 20H0Z M5 4V16H13L16 13V7L13 4Z"/>
+    <path id="glyph-c" d="M5 0H21V4H7L5 6V14L7 16H21V20H5L0 15V5Z"/>
+    <path id="glyph-o" fill-rule="evenodd" d="M5 0H16L21 5V15L16 20H5L0 15V5Z M7 4L5 6V14L7 16H14L16 14V6L14 4Z"/>
+    <path id="glyph-e" d="M0 0H21V4H5V8H17V12H5V16H21V20H0Z"/>
+  </defs>
+  <path fill="#E6945D" d="M8 0H48L56 8V48L48 56H8L0 48V8Z"/>
+  <g fill="none" stroke="#101C24" stroke-width="5.5" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M-2 13H13L28 28L43 13H58"/>
+    <path d="M-2 43H13L28 28L43 43H58"/>
+  </g>
+  <path fill="#F1EFE8" d="M28 19L37 28L28 37L19 28Z"/>
+  <path fill="#101C24" d="M28 24L32 28L28 32L24 28Z"/>
+  <g fill="#F1EFE8" transform="translate(65 3)">
+    <use href="#glyph-g" x="0"/><use href="#glyph-r" x="24"/><use href="#glyph-i" x="48"/><use href="#glyph-d" x="72"/>
+  </g>
+  <g fill="#E6945D" transform="translate(65 28)">
+    <use href="#glyph-c" x="0"/><use href="#glyph-o" x="24"/><use href="#glyph-r" x="48"/><use href="#glyph-e" x="72"/>
+  </g>
+  <path fill="#E6945D" d="M65 53H158V62H65Z"/>
+  <g fill="#101C24" transform="translate(81 54.5)">
+    <path d="M0 0H7V1.5H2V2.3H6V3.8H2V4.6H7V6H0Z"/>
+    <path d="M11 6V0H13L16 3.7V0H18V6H16L13 2.3V6Z"/>
+    <path d="M22 0H29V1.5H24V2.3H28V3.8H24V4.6H29V6H22Z"/>
+    <path fill-rule="evenodd" d="M33 0H38L40 2V3.5L38.5 4.5L40 6H37.3L35.5 4.5H35V6H33Z M35 1.5V3H37.3L38 2.4V2L37.3 1.5Z"/>
+    <path d="M46 0H51V1.5H47L46 2.4V3.6L47 4.5H49.5V3.8H48V2.5H51.5V6H46L44 4V2Z"/>
+    <path d="M55 0L57.5 2.5L60 0H62.6L58.6 4.2V6H56.5V4.2L52.5 0Z"/>
+  </g>
+</svg>

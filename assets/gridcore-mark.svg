@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">GridCore Energy</title>
+  <path fill="#101C24" d="M8 0H56L64 8V56L56 64H8L0 56V8Z"/>
+  <path fill="#E6945D" d="M10 4H54L60 10V54L54 60H10L4 54V10Z"/>
+  <g fill="none" stroke="#101C24" stroke-width="6.4" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M1 17H16L32 33L48 17H63"/>
+    <path d="M1 49H16L32 33L48 49H63"/>
+  </g>
+  <path fill="#F1EFE8" d="M32 23L42 33L32 43L22 33Z"/>
+  <path fill="#101C24" d="M32 29L36 33L32 37L28 33Z"/>
+</svg>

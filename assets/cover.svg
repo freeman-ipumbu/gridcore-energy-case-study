@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">GridCore Energy — Built for Here</title>
+  <desc id="desc">A basalt and copper case-study cover with the GridCore convergence symbol and the line Built for Here.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c24"/><stop offset="1" stop-color="#1e3942"/></linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#d7e3de" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="520" fill="url(#bg)"/>
+  <rect width="1200" height="520" fill="url(#grid)"/>
+  <g fill="none" stroke="#718f99" stroke-opacity=".28" stroke-width="1.5">
+    <path d="M700 -80Q890 10 820 210T1190 510"/><path d="M735 -80Q925 10 855 210T1225 510"/><path d="M770 -80Q960 10 890 210T1260 510"/><path d="M805 -80Q995 10 925 210T1295 510"/><path d="M840 -80Q1030 10 960 210T1330 510"/>
+  </g>
+  <g transform="translate(64 54) scale(1.35)">
+    <path fill="#e6945d" d="M8 0H56L64 8V56L56 64H8L0 56V8Z"/>
+    <g fill="none" stroke="#101c24" stroke-width="6.4" stroke-linecap="square"><path d="M1 17H16L32 33L48 17H63"/><path d="M1 49H16L32 33L48 49H63"/></g>
+    <path fill="#f1efe8" d="M32 23L42 33L32 43L22 33Z"/><path fill="#101c24" d="M32 29L36 33L32 37L28 33Z"/>
+  </g>
+  <text x="166" y="93" fill="#f1efe8" font-family="Arial,sans-serif" font-size="26" font-weight="800" letter-spacing="3">GRIDCORE</text>
+  <text x="166" y="122" fill="#e6945d" font-family="Arial,sans-serif" font-size="16" font-weight="800" letter-spacing="7">ENERGY</text>
+  <text x="64" y="286" fill="#f1efe8" font-family="Arial,sans-serif" font-size="92" font-weight="900" letter-spacing="-7">BUILT FOR</text>
+  <text x="64" y="387" fill="#e6945d" font-family="Arial,sans-serif" font-size="92" font-weight="900" letter-spacing="-7">HERE.</text>
+  <path d="M64 448H1136" stroke="#e6945d" stroke-width="2"/>
+  <text x="64" y="482" fill="#a9bbbe" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">PROTECTION</text>
+  <text x="340" y="482" fill="#a9bbbe" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">POWER</text>
+  <text x="590" y="482" fill="#a9bbbe" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">WATER</text>
+  <text x="1136" y="482" text-anchor="end" fill="#e6945d" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3">NAMIBIA / 2026</text>
+</svg>

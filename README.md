@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://gridcore.pages.dev/"><strong>Explore GridCore ↗</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://www.solarspin-namibia.xyz/">SolarSpin Technologies</a>
+  <a href="https://solarspin-namibia.xyz/">SolarSpin Technologies</a>
 </p>
 
 <p align="center"><strong>Live build — November 2026</strong></p>
@@ -73,7 +73,7 @@ This repository is a public record of the design and visitor experience. The pro
 ## Credits
 
 **Project:** GridCore Energy, Namibia  
-**Identity, creative direction, experience design and development:** [SolarSpin Technologies](https://www.solarspin-namibia.xyz/)  
+**Identity, creative direction, experience design and development:** [SolarSpin Technologies](https://solarspin-namibia.xyz/)  
 **Live website:** [gridcore.pages.dev](https://gridcore.pages.dev/)
 
 © 2026 GridCore Energy and SolarSpin Technologies. Public visibility of this case study does not grant permission to reuse its identity, artwork or writing as a commercial template.
